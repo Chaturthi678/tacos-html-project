@@ -1,0 +1,46 @@
+html {
+    font-size: 21px;
+    color: black;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #160f0f;
+    border-right: 1px solid #100b0b;
+    background-color: rgb(228, 221, 230);
+}
+
+th, td, caption {
+    border: 1px solid #141414;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 1rem;
+}
+
+#review{
+    background-color: rgb(228, 221, 230);
+    text-align: center;
+}
+#first_review{
+    background-color: rgb(213, 176, 188);
+    border-left: 2px solid #160f0f;
+    border-right: 2px solid #100b0b;
+    border-bottom: 1px solid #160f0f;
+    border-top: 2px solid #160f0f;
+    margin-top: 2px; 
+}
+#second_review{
+    background-color: rgb(213, 176, 188);
+    border-left: 2px solid #160f0f;
+    border-right: 2px solid #100b0b;
+    border-bottom: 2px solid #160f0f;
+    border-top: 1px solid #160f0f;
+    margin-top: 2px; 
+}
+ul li a {
+    color: inherit;  
+}
+  
